@@ -1,0 +1,6 @@
+EXPORTS
+	ConstructorOfA1 =	??0A@@QAE@XZ		PRIVATE
+	ConstructorOfA2 =	??0A@@QAE@H@Z		PRIVATE
+	SetNumOfA		=	?SetNum@A@@UAEXH@Z	PRIVATE
+	GetNumOfA		=	?GetNum@A@@UAEHXZ	PRIVATE	
+	DestructorOfA	=	??1A@@UAE@XZ		PRIVATE

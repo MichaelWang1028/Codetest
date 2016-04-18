@@ -1,0 +1,12 @@
+﻿生成启动时间为 2015/9/13 13:39:08。
+     1>项目“E:\MultiTest\DllTest\DllTest\DllTest\DllTest.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MultiTest\DllTest\DllTest\Debug\DllTest.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\MultiTest\DllTest\DllTest\Debug\DllTest.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MultiTest\DllTest\DllTest\Debug\DllTest.lib" /MACHINE:X86 /DLL Debug\DllTest.obj
+         LINK : 没有找到 E:\MultiTest\DllTest\DllTest\Debug\DllTest.dll 或上一个增量链接没有生成它；正在执行完全链接
+            正在创建库 E:\MultiTest\DllTest\DllTest\Debug\DllTest.lib 和对象 E:\MultiTest\DllTest\DllTest\Debug\DllTest.exp
+         DllTest.vcxproj -> E:\MultiTest\DllTest\DllTest\Debug\DllTest.dll
+     1>已完成生成项目“E:\MultiTest\DllTest\DllTest\DllTest\DllTest.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.21

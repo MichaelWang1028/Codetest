@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/9/12 22:02:52。
+     1>项目“E:\MultiTest\DllTest\VSlib\TestExe\TestExe.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /IE:\MultiTest\DllTest\VSlib\VSlib /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TestExe.cpp
+         TestExe.cpp
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MultiTest\DllTest\VSlib\Debug\TestExe.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\MultiTest\DllTest\VSlib\Debug VSlib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\MultiTest\DllTest\VSlib\Debug\TestExe.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MultiTest\DllTest\VSlib\Debug\TestExe.lib" /MACHINE:X86 Debug\TestExe.obj
+         TestExe.vcxproj -> E:\MultiTest\DllTest\VSlib\Debug\TestExe.exe
+     1>已完成生成项目“E:\MultiTest\DllTest\VSlib\TestExe\TestExe.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.73

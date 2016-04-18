@@ -1,0 +1,7 @@
+;lib.def : DLL中导出全局变量
+
+;在DLL中导出变量
+LIBRARY "dllTest"
+EXPORTS
+  dllGlobalVar CONSTANT  ;或dllGlobalVar DATA
+  GetGlobalVar

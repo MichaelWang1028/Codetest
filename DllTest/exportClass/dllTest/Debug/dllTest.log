@@ -1,0 +1,21 @@
+﻿生成启动时间为 2015/9/14 9:09:10。
+     1>项目“E:\MultiTest\DllTest\exportClass\dllTest\dllTest.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt circle.cpp point.cpp
+         circle.cpp
+     1>e:\multitest\dlltest\exportclass\dlltest\circle.cpp(16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\multitest\dlltest\exportclass\dlltest\circle.cpp(21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+         正在生成代码...
+         正在编译...
+         point.cpp
+         正在生成代码...
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MultiTest\DllTest\exportClass\Debug\dllTest.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\MultiTest\DllTest\exportClass\Debug\dllTest.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MultiTest\DllTest\exportClass\Debug\dllTest.lib" /MACHINE:X86 /DLL Debug\circle.obj
+         Debug\lib.obj
+         Debug\point.obj
+         dllTest.vcxproj -> E:\MultiTest\DllTest\exportClass\Debug\dllTest.dll
+     1>已完成生成项目“E:\MultiTest\DllTest\exportClass\dllTest\dllTest.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.89
